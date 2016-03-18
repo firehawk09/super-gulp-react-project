@@ -1,0 +1,1 @@
+body{background-color:$bodybackground;color:$white}.headerwrapper{.logo img{background-color:$headerimagebackground}}ul{background-color:$dropdownbackground;li{color:$dropdowncolor}}

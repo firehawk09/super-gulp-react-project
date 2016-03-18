@@ -1,0 +1,16 @@
+body {
+  background-color: #fff;
+  color: #000; }
+
+.headerwrapper .logo img {
+  background-color: #999; }
+
+ul {
+  background-color: #999; }
+  ul li {
+    color: #ff6347; }
+
+h1 {
+  color: #ffa500; }
+
+/*# sourceMappingURL=styles.css.map */
